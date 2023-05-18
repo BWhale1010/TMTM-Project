@@ -6,7 +6,9 @@
 지원하는 그룹웨어 프로젝트
 
 프로젝트 기간 : 2022.12.15 ~ 2023.01.25
+
 프로젝트 참여 인원 : 4명
+
 주요기능 : 매출관리 기능, 평면도 활용 구역관리, 결재 시스템, 시설관리
 
-개발환경 : 
+개발환경 : SpringBoot, Java, MariaDB, ApacheTomcat, Docker, OracleCloud
