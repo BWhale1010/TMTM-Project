@@ -11,4 +11,4 @@
 
 주요기능 : 매출관리 기능, 평면도 활용 구역관리, 결재 시스템, 시설관리
 
-개발환경 : SpringBoot(v2.7.6), Java(v1.8), MariaDB, ApacheTomcat(v9.0.65), Docker, OracleCloud(CentOS 7)
+개발환경 : SpringBoot(v2.7.6), Java(v11), MariaDB, ApacheTomcat(v9.0.65), Docker, OracleCloud(CentOS 7)
